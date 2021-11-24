@@ -1,0 +1,46 @@
+.general {
+    background: grey;
+    width: 1600px;
+    height: 2000px;
+    display: flex;
+    flex-direction: column;
+}
+.second {
+    display: flex;
+    flex-direction: row;
+}
+.home {
+    background: darkblue;
+    width: 800px;
+    height: 900px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.kabobs {
+    background: red;
+    width: 1580px;
+    height: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.third {
+    display: flex;
+    flex-direction: row;
+}
+.summer_kabobs {
+    background: yellow;
+    width: 510px;
+    height: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}

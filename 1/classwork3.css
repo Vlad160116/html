@@ -1,0 +1,66 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.a {
+    background: yellow;
+    width: 1580px;
+    height: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.xxx {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 950px;
+}
+.b {
+    background: red;
+    width: 930px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px
+}
+.x2 {
+    display: flex;
+    flex-direction: row;
+    width: 950px;
+}
+.box {
+    background: green;
+    width: 300px;
+    height: 350px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    /*flex-direction: row;*/
+    flex-wrap: wrap;
+}
+.f {
+    background: yellow;
+    width: 630px;
+    height: 670px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    /*flex-direction: column;*/
+    flex-wrap: wrap;
+}
+.x3 {
+    display: flex;
+    flex-direction: row;
+}

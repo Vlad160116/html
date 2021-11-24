@@ -1,0 +1,28 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.a {
+    background: yellow;
+    width: 1580px;
+    height: 800px;
+    margin: 10px;
+}
+.xxx {
+    display: flex;
+}
+.b {
+    background: red;
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+}
+.c {
+    background: cornflowerblue;
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+}

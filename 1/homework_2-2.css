@@ -1,0 +1,41 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.widgets {
+    background: yellow;
+    width: 1580px;
+    height: 400px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.xxx {
+    display: flex;
+    /*flex-direction: column;*/
+}
+.box {
+    background: red;
+    width: 550px;
+    height: 600px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.contact {
+    background: yellow;
+    width: 1580px;
+    height: 400px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}

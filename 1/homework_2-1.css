@@ -1,0 +1,64 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+#header {
+    background: yellow;
+    width: 1580px;
+    height: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.xxx {
+    display: flex;
+}
+#menu {
+    background: blue;
+    width: 300px;
+    height: 800px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+}
+.post1 {
+    background: red;
+    width: 1400px;
+    height: 380px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.post2 {
+    background: green;
+    width: 1400px;
+    height: 380px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+#footer {
+    background: darkmagenta;
+    width: 1580px;
+    height: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}

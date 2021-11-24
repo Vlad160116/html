@@ -1,0 +1,57 @@
+.general {
+    background: grey;
+    width: 1000px;
+    height: 2000px;
+}
+.one {
+    background: beige;
+    width: 980px;
+    height: 100px;
+    margin: 10px;
+}
+.sixth {
+    display: flex;
+    flex-direction: row;
+}
+
+.two {
+    background: beige;
+    width: 200px;
+    height: 1860px;
+    margin: 10px;
+}
+.three {
+    background: beige;
+    width: 780px;
+    height: 400px;
+    margin: 10px;
+}
+.four {
+    background: beige;
+    width: 780px;
+    height: 200px;
+    margin: 10px;
+}
+.second {
+    display: flex;
+    flex-direction: row;
+}
+.five {
+    background: beige;
+    width: 580px;
+    height: 1010px;
+    margin: 10px;
+}
+.six {
+    background: beige;
+    width: 180px;
+    height: 1010px;
+    margin: 10px;
+}
+.seven {
+    background: beige;
+    width: 780px;
+    height: 200px;
+    margin: 10px;
+}
+

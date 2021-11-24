@@ -1,0 +1,107 @@
+@media screen and (max-width: 1200px) {
+.a  {
+    background: red;
+}
+
+.c {
+    background: red;
+}
+
+.e {
+    background: red;
+}
+
+.g {
+    background: red;
+}
+}
+@media screen and (min-width: 1300px) {
+    .a  {
+        background: green;
+    }
+
+    .c {
+        background: green;
+    }
+
+    .e {
+        background: green;
+    }
+
+    .g {
+        background: green;
+    }
+}
+@media screen and (min-width: 400px) and (max-width: 1500px) {
+    .b  {
+        background: #000;
+    }
+    .b1  {
+        background: #dcdcdc;
+    }
+    .b2_1  {
+        background: #dcdcdc;
+    }
+    .d  {
+        background: #000;
+    }
+    .d1  {
+        color: #dcdcdc;
+    }
+    .d0  {
+        background: #000;
+    }
+    .d2_1_1_1 {
+        background: #dcdcdc;
+    }
+    .text2_1_1_2 {
+        color: #dcdcdc;
+    }
+    .f  {
+        background: #000;
+    }
+    .text_f {
+        color: #dcdcdc;
+    }
+    .f1_1_1 {
+        background: #dcdcdc;
+    }
+    .f1_1_2_1 {
+        color: #dcdcdc;
+    }
+    .f1_1_2_2_1 {
+        background: #dcdcdc;
+    }
+    .f1_1_3_1 {
+        color: #dcdcdc;
+    }
+    .f1_1_4_1 {
+        background: #dcdcdc;
+    }
+    .f1_1_4_2_1 {
+        background: #dcdcdc;
+    }
+}
+@media (orientation: landscape) {
+    .text1_0 {
+        display: none;
+    }
+    .b2_1 {
+        background: red;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .a {
+        display: none;
+    }
+    .a1 {
+        display: none;
+    }
+    .b2 {
+        display: none;
+    }
+    .a_button {
+        display: flex;
+    }
+}

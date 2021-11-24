@@ -1,0 +1,99 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.a {
+    background: darkblue;
+    width: 1580px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.third1 {
+    display: flex;
+    flex-direction: row;
+}
+.b {
+    background: green;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.c {
+    background: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.d {
+    background: red;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.third2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.e {
+    background: blue;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.f {
+    background: brown;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.g {
+    background: purple;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.h {
+    background: yellow;
+    width: 610px;
+    height: 620px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.seventh {
+    display: flex;
+    flex-direction: row;
+}

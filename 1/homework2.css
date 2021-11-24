@@ -1,0 +1,40 @@
+.wrap {
+    background: grey;
+    width: 1600px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    background: yellow;
+    width: 1580px;
+    height: 800px;
+    margin: 10px;
+}
+.nav {
+    background: yellow;
+    width: 1580px;
+    height: 800px;
+    margin: 10px;
+}
+.xxx {
+    display: flex;
+}
+.main {
+    background: red;
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+}
+.aside {
+    background: cornflowerblue;
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+}
+.footer {
+    background: yellow;
+    width: 1580px;
+    height: 800px;
+    margin: 10px;
+}
